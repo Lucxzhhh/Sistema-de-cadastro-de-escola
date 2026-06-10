@@ -114,7 +114,6 @@ SistemaEscolar/
 
 <table align="center">
   <tr>
-    
     <!-- Lucas -->
     <td align="center">
       <a href="https://github.com/Lucxzhhh">
@@ -122,7 +121,6 @@ SistemaEscolar/
         <b>Lucxzhhh</b>
       </a>
     </td>
-
     <!-- Miguel Luz -->
     <td align="center">
       <a href="https://github.com/MiguelLuz09">
@@ -130,7 +128,6 @@ SistemaEscolar/
         <b>MiguelLuz09</b>
       </a>
     </td>
-
     <!-- Roeda Miguel -->
     <td align="center">
       <a href="https://github.com/roedaMiguel">
@@ -138,7 +135,6 @@ SistemaEscolar/
         <b>Roeda Miguel</b>
       </a>
     </td>
-
   </tr>
 </table>
 
