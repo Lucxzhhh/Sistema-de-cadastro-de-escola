@@ -104,34 +104,45 @@ SistemaEscolar/
 * Organização do código em múltiplas classes
 
 ## Autores
-## 👨‍💻 Equipe
-
 ## 👨‍💻 Equipe de Desenvolvimento
 
 <p align="center">
+  <i>Projeto desenvolvido por estudantes do 2º ano de Desenvolvimento de Sistemas - ETEC</i>
+</p>
+
+<br>
+
+<p align="center">
+
+  <!-- Lucas -->
   <a href="https://github.com/Lucxzhhh">
-    <img src="https://github.com/user-attachments/assets/eeeab267-60ce-4049-8881-7673500975c6" width="120">
+    <img src="https://github.com/user-attachments/assets/b0f08778-8ee4-4370-a426-2c43b95f3b1a" width="140" style="border-radius:50%">
   </a>
+  <br>
+  <b><a href="https://github.com/Lucxzhhh">Lucxzhhh</a></b>
 
+  <br><br><br>
+
+  <!-- Miguel Luz -->
   <a href="https://github.com/MiguelLuz09">
-    <img src="https://github.com/user-attachments/assets/277ede45-3103-4534-abc0-c96ef90d9a01" width="120">
+    <img src="https://github.com/user-attachments/assets/277ede45-3103-4534-abc0-c96ef90d9a01" width="140" style="border-radius:50%">
   </a>
+  <br>
+  <b><a href="https://github.com/MiguelLuz09">MiguelLuz09</a></b>
 
-  <a href="#">
-    <img src="https://github.com/user-attachments/assets/f71fdf52-3c36-4813-8bbe-5b46a1c55b43" width="120">
+  <br><br><br>
+
+  <!-- Miguel Roeda -->
+  <a href="https://github.com/roedaMiguel">
+    <img src="https://github.com/user-attachments/assets/f71fdf52-3c36-4813-8bbe-5b46a1c55b43" width="140" style="border-radius:50%">
   </a>
+  <br>
+  <b><a href="https://github.com/roedaMiguel">Roeda Miguel</a></b>
+
 </p>
 
-<p align="center">
-  <b>Lucxzhhh</b> •
-  <b>MiguelLuz09</b> •
-  <b>Roeda Miguel</b>
-</p>
+<br>
 
 <p align="center">
-  2º Desenvolvimento de Sistemas • ETEC
-</p>
-
-<p align="center">
-  2º Desenvolvimento de Sistemas • ETEC
+  🎓 2º Desenvolvimento de Sistemas • ETEC
 </p>
