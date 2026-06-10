@@ -103,13 +103,13 @@ SistemaEscolar/
 * Integração com banco de dados
 * Organização do código em múltiplas classes
 
-## Autores
+<div align="center">
+
 ## 👨‍💻 Equipe de Desenvolvimento
 
-<p align="center">
-  <i>Projeto desenvolvido por estudantes do 2º ano de Desenvolvimento de Sistemas - ETEC</i>
-</p>
+<i>Projeto desenvolvido por estudantes do 2º ano de Desenvolvimento de Sistemas - ETEC</i>
 
+</div>
 <br>
 
 <table align="center">
