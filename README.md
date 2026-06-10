@@ -110,33 +110,36 @@ SistemaEscolar/
   <i>Projeto desenvolvido por estudantes do 2º ano de Desenvolvimento de Sistemas - ETEC</i>
 </p>
 
-<p align="center">
+<br>
 
-  <!-- Lucas -->
-  <a href="https://github.com/Lucxzhhh">
-    <img src="https://github.com/user-attachments/assets/b0f08778-8ee4-4370-a426-2c43b95f3b1a" width="140" style="border-radius:50%">
-  </a>
-  <br>
-  <b><a href="https://github.com/Lucxzhhh">Lucxzhhh</a></b>
+<table align="center">
+  <tr>
+    
+    <!-- Lucas -->
+    <td align="center">
+      <a href="https://github.com/Lucxzhhh">
+        <img src="https://github.com/user-attachments/assets/b0f08778-8ee4-4370-a426-2c43b95f3b1a" width="140"><br>
+        <b>Lucxzhhh</b>
+      </a>
+    </td>
 
-  <!-- Miguel Luz -->
-  <a href="https://github.com/MiguelLuz09">
-    <img src="https://github.com/user-attachments/assets/277ede45-3103-4534-abc0-c96ef90d9a01" width="140" style="border-radius:50%">
-  </a>
-  <br>
-  <b><a href="https://github.com/MiguelLuz09">MiguelLuz09</a></b>
+    <!-- Miguel Luz -->
+    <td align="center">
+      <a href="https://github.com/MiguelLuz09">
+        <img src="https://github.com/user-attachments/assets/277ede45-3103-4534-abc0-c96ef90d9a01" width="140"><br>
+        <b>MiguelLuz09</b>
+      </a>
+    </td>
 
+    <!-- Roeda Miguel -->
+    <td align="center">
+      <a href="https://github.com/roedaMiguel">
+        <img src="https://github.com/user-attachments/assets/f71fdf52-3c36-4813-8bbe-5b46a1c55b43" width="140"><br>
+        <b>Roeda Miguel</b>
+      </a>
+    </td>
 
-  <!-- Miguel Roeda -->
-  <a href="https://github.com/roedaMiguel">
-    <img src="https://github.com/user-attachments/assets/f71fdf52-3c36-4813-8bbe-5b46a1c55b43" width="140" style="border-radius:50%">
-  </a>
+  </tr>
+</table>
 
-  <b><a href="https://github.com/roedaMiguel">Roeda Miguel</a></b>
-
-</p>
-
-
-<p align="center">
-  🎓 2º Desenvolvimento de Sistemas • ETEC
-</p>
+<br>
